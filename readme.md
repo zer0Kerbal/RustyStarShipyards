@@ -205,7 +205,7 @@ parts, config
 [SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/ "ScrapYard"  
 
 [RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/ "Rusty Star Shipyards"
-[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Shipyards"
+[RSR]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Shipyards"
 [PoK]: https://spacedock.info/mod/903 "Pirates of the Keribbean"
 [RTP]: http://forum.kerbalspaceprogram.com/index.php?/topic/126355-*/ "Rusty Star Textures"
 [ZPE]: http://forum.kerbalspaceprogram.com/index.php?/topic/128502-*/ "ZPE Propulsion System"
