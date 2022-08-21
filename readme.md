@@ -121,7 +121,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [`GagaX`][gagax] for creating wonderous [Rusty Star Rockets][RSR] parts addon!
+* [`GagaX`][gagax] for creating the wonderous [Rusty Star Rockets][RSR] parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
