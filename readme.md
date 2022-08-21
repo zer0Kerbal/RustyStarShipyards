@@ -62,7 +62,7 @@ An original creation by *KerbSimpleCo*
   CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="800px" height="800px">
+    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="250px" height="250px">
 </a>
 
 I take no part, nor am I interested in maintaining the [CKAN][ckan] mod metadata for my mods.
