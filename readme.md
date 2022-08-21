@@ -6,7 +6,7 @@ updated: 17 Aug 2022 -->
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
 [![Rusty Star Shipyards][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][ckan]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
@@ -75,7 +75,7 @@ My support of [CKAN][ckan] extends as far as me checking the checkbox in Spacedo
 
 Beware, [CKAN][ckan] *can* really mess up though it tries very, very, very hard not to.
 
-or [![CKAN][CKAN:img]][CKAN:url]
+or [![CKAN][CKAN:img]][ckan]
 
 ### Dependencies
 
@@ -178,7 +178,7 @@ parts, config
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
-[CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
+[ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
 [CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RustyStarShipyards/master/json/ckan.json "CKAN"
 
 <!--- release links -->
