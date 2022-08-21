@@ -1,0 +1,30 @@
+{
+	"NAME"		     : "Rusty Star Shipyards (RSS)",
+	"URL"		     : "https://raw.githubusercontent.com/zer0Kerbal/RustyStarShipyards/master/RustyStarShipyards.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/RustyStarShipyards/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/RustyStarShipyards/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"		  : "zer0Kerbal",
+		"REPOSITORY"		: "RustyStarShipyards",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 9,
+		"PATCH" : 99,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 3
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"     : "RustyStarShipyards",
+		"DIRECTORY": "RustyStar/RustyStarShipyards"
+	}
+}
