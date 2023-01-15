@@ -19,13 +19,17 @@
 
 ### Summary 1.0.0.0
 
-* convert all textures from .png to .dds
 * eliminated texture/agency related log spam
 
 ### Status 1.0.0.0
 
 * Issues
-
+  * closes #30 - Rusty Star Shipyards (RSS) 1.0.0.0-release `<Space Trials>`
+  * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #32 - 1.0.0.0 Update Documentation
+  * closes #33 - 1.0.0.0 Update Social Media
+  * closes #34 - [BUG] missing agency scaled
+  * updates #10 - Localization - Master
 
 ---
 
