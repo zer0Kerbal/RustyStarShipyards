@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-This part addon contains over one hundred parts made of rusty metal.
+Adds Rusty Star Shipyards's agent, flags, and common config files used in all Rusty Star Rockets add-ons for Kerbal Space Program.
 
 ## Installation Instructions
 
