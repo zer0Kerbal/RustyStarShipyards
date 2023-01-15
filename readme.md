@@ -82,7 +82,7 @@ or [![CKAN][CKAN:img]][ckan]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [Rusty Star Shipyards][RSS] agent, flags, common files
 
-### Recomends  
+### Recommends  
 
 Other Rusty Star Shipyards (RSS) mods:
 
@@ -95,7 +95,6 @@ Other Rusty Star Shipyards (RSS) mods:
 ### Suggests
 
 * [On Demand Fuel Cells (ODFC)}][ODFC]
-* [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Biomatic][BIO]
 * [Oh Scrap!][OHS]:  
@@ -110,7 +109,7 @@ Other Rusty Star Shipyards (RSS) mods:
 
 ### Tags
 
-parts, config
+agent, flags, parts, config
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -178,7 +177,7 @@ parts, config
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
-[ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
+[ckan:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
 [CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RustyStarShipyards/master/json/ckan.json "CKAN"
 
 <!--- release links -->
@@ -260,7 +259,7 @@ parts, config
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [gagax]: https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/ "GagaX"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
