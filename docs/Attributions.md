@@ -24,15 +24,17 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img border="0" alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50" height="50" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Rusty Star Shipyards (RSS)"> Rusty Star Shipyards!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/"><img border="0" alt="linuxgurugamer" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_09/square_800x800.thumb.png.ab7375e7b1dbf21a10e5b8697a63fa5f.png" width="50" height="50" > linuxgurugamer</a> for handing these off to me!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img border="0" alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50" height="50" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/" alt="Rusty Star Rockets (RSS)"> Rusty Star Rockets!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
+
+### Reviews
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50" height="50" > GagaX</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
 ### Agency
@@ -49,10 +51,14 @@ updated: 03 Jun 2022
   <li>Everyone else who made modding tutorials.</li>
 </ul>
 
+### Art Asset(s)
+
+* Flags
+
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -65,35 +71,5 @@ updated: 03 Jun 2022
 <ul>
   <li>none yet</li>
 </ul>
-
-<!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "GagaX Ltd Forum Thread"
-
-[gagax]: https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/ "gagax"
-[linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/ "linuxgurugamer"
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
-[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
