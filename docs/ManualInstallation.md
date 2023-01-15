@@ -26,50 +26,49 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `RustyStarRockets` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `RustyStarShipyards` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/RustyStar/RustyStarRockets`
+  * Delete `<KSP_ROOT>/GameData/RustyStar/RustyStarShipyards`
 * Extract the package's `RustyStar/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/RustyStar` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/RustyStar/RustyStarRockets`
+  * you should end up with `<KSP_ROOT>/GameData/RustyStar/RustyStarShipyards`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * you should end up with `<KSP_ROOT>/GameData/RustyStar/RustyStarRockets`
+  * you should end up with `<KSP_ROOT>/GameData/RustyStar/RustyStarShipyards`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/RustyStar/RustyStarRockets`
+  * you should end up with `<KSP_ROOT>/GameData/RustyStar/RustyStarShipyards`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [RustyStar]tion]
-    + [RustyStarRockets]
+    + [RustyStarShipyards]
+      + [Agencies]
+        ...
       + [Compatibility]
         ...
       + [Config]
         ...
-      + [Contracts]
-        ...
       + [Localization]
         ...
-      + [Parts]
+      + [Resources]
         ...
       * #.#.#.#.htm
       * Attributions.htm
       * CC-BY-ND-4.0.txt
       * changelog.md
-        ManualInstallation.htm
+      * ManualInstallation.htm
       * readme.htm
-      * RustyStarRockets.version
+      * RustyStarShipyards.version
     ...
     * ModuleManager.ConfigCache
   * KSP.log
@@ -78,8 +77,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [Rusty Star Shipyards (RSS)][RSS]
-
-[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/ "Rusty Star Shipyards"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+* none
