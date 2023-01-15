@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/RustyStarRockets/RustyStarShipyards/*",
+        "GameData/RustyStar/RustyStarShipyards/*",
 		"source/*",
 		"**/@thumbs/**",
 		"**/Agencies/**",
