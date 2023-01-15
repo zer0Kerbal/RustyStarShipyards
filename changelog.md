@@ -10,6 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/3090)                                 |
 | ckan       | RustyStarShipyards                                                |
 
+## Version 1.0.0.0-release - `<Space Trials>` edition
+
+* Released
+  * 25 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.0.0
+
+* eliminated texture/agency related log spam
+
+### Status 1.0.0.0
+
+* Issues
+  * closes #30 - Rusty Star Shipyards (RSS) 1.0.0.0-release `<Space Trials>`
+  * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #32 - 1.0.0.0 Update Documentation
+  * closes #33 - 1.0.0.0 Update Social Media
+  * closes #34 - [BUG] missing agency scaled
+  * updates #10 - Localization - Master
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Final Inspection>` edition
 
 * 21 Aug 2022
