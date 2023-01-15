@@ -1,0 +1,38 @@
+spec_version: 1
+identifier: RustyStarShipyards
+abstract: Rusty Star Shipyards's agent, flags, and common config files used in all Rusty Star Rockets add-ons
+author:
+  - Gaga_X
+  - zer0Kerbal
+$kref: '#/ckan/spacedock/3090'
+$vref: '#/ckan/ksp-avc'
+x_netkan_epoch: '1'
+release_status: stable
+bugtracker: 'https://github.com/zer0Kerbal/RustyStarShipyards/issues'
+curse: 'https://www.curseforge.com/kerbal/ksp-mods/rustystarshipyards/files/3946126'
+tags:
+  - agency
+  - flags
+  - resources
+  - science
+recommends:
+  - name: RustyStarRockets
+  - name: ZPEPropulsionSystem
+  - name: PiratesoftheKeribbean
+  - name: RustyTexturesforProceduralParts
+  - name: GPOSpeedPump
+  - name: OnDemandFuelCells
+supports:
+  - name: RustyStarRockets
+  - name: ZPEPropulsionSystem
+  - name: PiratesoftheKeribbean
+  - name: RustyTexturesforProceduralParts
+suggests:
+  - name: AdjustableModPanel
+  - name: Biomatic
+  - name: Kaboom
+  - name: PreciseManeuver
+  - name: SimpleConstruction
+  - name: SimpleLogistics
+  - name: ModuleManager
+  - name: TweakScale
