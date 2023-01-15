@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Rusty Star Shipyards (RSS)
@@ -22,6 +21,29 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)   |
 | spacedock  | (https://spacedock.info/mod/3090)                                 |
 | ckan       | RustyStarShipyards                                                |
+
+## Version 1.0.0.0-release - `<Space Trials>` edition
+
+* Released
+  * 25 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.0.0
+
+* eliminated texture/agency related log spam
+
+### Status 1.0.0.0
+
+* Issues
+  * closes #30 - Rusty Star Shipyards (RSS) 1.0.0.0-release `<Space Trials>`
+  * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #32 - 1.0.0.0 Update Documentation
+  * closes #33 - 1.0.0.0 Update Social Media
+  * closes #34 - [BUG] missing agency scaled
+  * updates #10 - Localization - Master
+
+---
 
 ## Version 0.9.99.0-prerelease - `<Final Inspection>` edition
 
@@ -85,3 +107,4 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
 
 ---
+
