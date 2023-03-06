@@ -10,6 +10,26 @@
 | spacedock  | (https://spacedock.info/mod/3090)                                 |
 | ckan       | RustyStarShipyards                                                |
 
+## Version 1.0.1.0-release - `<Keel Coin>` edition
+
+* Released
+  * 05 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.1.0
+
+* corrected scaled flag
+* more localization
+
+### Status 1.0.1.0
+
+* closes #37 - Rusty Star Shipyards (RSS) 1.0.1.0-release `<EDITION>` edition
+* closes #38 - 1.0.1.0 Additional Tasks
+* updates #10 - Localization - Master
+
+---
+
 ## Version 1.0.0.0-release - `<Space Trials>` edition
 
 * Released
