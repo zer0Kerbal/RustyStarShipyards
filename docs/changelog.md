@@ -19,8 +19,26 @@ CC BY-ND 4.0 by zer0Kerbal
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarShipyards)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)   |
-| spacedock  | (https://spacedock.info/mod/3090)                                 |
-| ckan       | RustyStarShipyards                                                |
+
+## Version 1.0.2.0-release - `<Handover>` edition
+
+* Released
+  * 18 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.2.0
+
+* added more localization strings
+
+### Status 1.0.1.0
+
+* closes #43 - Rusty Star Shipyards (RSS) 1.0.2.0-release `<Handover>` edition
+* closes #44 - 1.0.2.0 Additional Tasks
+* updates #10 - Localization - Master
+
+---
+
 
 ## Version 1.0.1.0-release - `<Keel Coin>` edition
 
